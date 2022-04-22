@@ -1,3 +1,10 @@
+## Message to staff
+
+On May 4th, we will be welcoming two interns who will be working with the Rails Team this summer. Their first day with our team will be Wednesday, May 4th, which happens to be our standup. OK, so now take a moment and imagine being a first year…doing a new internship, and your first introduction to your new work experience is a zoom call with a bunch of fogies in it. 
+
+
+# Meet the Staff Exercise: 
+
 Brief interviews of the staff (10 - 15 minutes). The idea is to give our new interns (employees) an opportunity to meet everyone on the team. The interviews will be very short (3 - 5 questions).
 
 Please be prepared to answer some 'get to know you' questions. 
