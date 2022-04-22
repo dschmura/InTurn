@@ -27,10 +27,8 @@ Teach me what you learned doing the orientation product development?
 What are the appropriate uses of the Block M? Have you seen these violated? Tell me what you think about that.
 
 
-## Weekly Cadence
-  - Meetings and other fun: Wednesday. 9 - 10:30 
+### Weekly Callouts
   - ITS Professional Development: Wednesday, 2pm - 4pm
-  - Reflections: Thursday 15 minutes start of day Thursday.
   - ITS Retreats: Fridays all day
 
 ### Daily Cadence
@@ -41,19 +39,21 @@ What are the appropriate uses of the Block M? Have you seen these violated? Tell
     - overview of the day
   - 8:45am - 9:00am 
     - Check in with accountability buddies and/or reflection
-  - 9:00 work on projects / meetings (Every other Wednesday)
-  - Morning Lecture (usually at 10:30am)
+  - 9:00am work on projects **(meetings every other Wednesday)**
+  - 10:30am Morning Lesson (most days)
   - Challenges
   - Lunch
 
 - ##### Afternoon
-  - Afternoon Lecture (usually at 3:30pm)
-  - End-of-day standup
+  - 1:30pm Project work
+  - 3:30pm Afternoon Lesson (most days)
+  - 4:30pm End-of-day standup
+  - 4:45pm End-of-day reflections
   - 5:00pm End of core hours
 
 
 ### Additional Resources
-- [Student Handbook](../../../student-handbook)
+- [Student Handbook](resources/student-handbook)
 - [How to Submit a Challenge](resources/how-to-submit.md)
 - [Daily Schedules](resources/daily_schedules.md)
 - [Learning Competencies](resources/competencies.md)
