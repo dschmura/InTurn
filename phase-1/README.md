@@ -55,11 +55,8 @@ What are the appropriate uses of the Block M? Have you seen these violated? Tell
 ### Additional Resources
 - [Student Handbook](../../../student-handbook)
 - [How to Submit a Challenge](resources/how-to-submit.md)
-- [Counseling Session Signup](resources/counseling_instructions.md)
-- [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Daily Schedules](resources/daily_schedules.md)
 - [Learning Competencies](resources/competencies.md)
-- [Lecture Topics](resources/lectures.md)
 - [External Resources](resources/resources.md)
 - [Phase Schedule](resources/schedule.md)
 - [Working Agreement](resources/working-agreement.md)
