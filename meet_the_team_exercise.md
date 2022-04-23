@@ -1,9 +1,10 @@
 ## Message to staff
 
-On May 4th, we will be welcoming two interns who will be working with the Rails Team this summer. Their first day with our team will be Wednesday, May 4th, which happens to be our standup. OK, so now take a moment and imagine being a first year…doing a new internship, and your first introduction to your new work experience is a zoom call with a bunch of fogies in it. 
+On May 4th, we will be welcoming two interns who will be working with the Rails Team this summer. Their first day with our team will be Wednesday, May 4th, which happens to be our standup. I think it will be overwhelming to do the round robin introductions on their first day, so in stead I have devised a 'Meet the Team' exercise.
 
+In short, I am going to have the interns schedule a 15 minute zoom call with each of you so to introduce yourselves. To make things less awkward, I've given them a short script, which I am including below. The script is just a short survey asking you some questions, getting a screen shot of you via zoom holding something of importance to you...you decide what that means, and a little game I'm calling "Quirks and a Quandry"
 
-# Meet the Staff Exercise: 
+# Meet the Team Exercise: 
 
 Brief interviews of the staff (10 - 15 minutes). The idea is to give our new interns (employees) an opportunity to meet everyone on the team. The interviews will be very short (3 - 5 questions).
 
