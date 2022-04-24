@@ -15,7 +15,7 @@ ___
   - Discuss project ‘rough’ for  SiteGeist 
 
 ### Readings: 
-- Pragmatic Studio Guide [**Chapters 1 - 5**]
+-[Pragmatic Studio Guide](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) [**Chapters 1 - 5**]
 - Apprenticeship Patterns [**Preface**]
   
   --- 
