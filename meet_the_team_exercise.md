@@ -2,7 +2,7 @@
 
 On May 4th, we will be welcoming two interns who will be working with the Rails Team this summer. Their first day with our team will be Wednesday, May 4th, which happens to be our standup. I think it will be overwhelming to do the round robin introductions on their first day, so in stead I have devised a 'Meet the Team' exercise.
 
-In short, I am going to have the interns schedule a 15 minute zoom call with each of you so to introduce yourselves. To make things less awkward, I've given them a short script, which I am including below. The script is just a short survey asking you some questions, getting a screen shot of you via zoom holding something of importance to you...you decide what that means, and a little game I'm calling "Quirks and a Quandry"
+In short, I am going to have the interns schedule a 15 minute zoom call with each of you so you can introduce yourselves. To make things less awkward for the interns, they will be interviewing you together, and I've given them a short script. The script is available ** below. It is just a short survey asking you some questions, getting a screen shot of you via zoom holding something of importance to you...you decide what that means, and a little game I'm calling "Quirks and a Quandry"
 
 > # Meet the Team Exercise: 
 
@@ -30,6 +30,7 @@ Quirks are a nice way to share something personal (not too personal) about yours
 
 Quirks generally fall into a couple of categories
   * Hobbies and interests that might be unexpected
+  * Famous people you may have met 
   * 
 
 In our WA@Ds standup on Wednesday, May 18th, we will have the interns introduce each team member based on the information gathered in the interview. They will also read the three 'quirks'. At this point the interns will pole the rest of the team to see if we can guess which 'quirk' was a lie.
