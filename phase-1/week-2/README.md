@@ -8,6 +8,7 @@ ___
   - GitHub: How we utilize GitHub for collaborative development
     - UPCASE:[Mastering Git](https://thoughtbot.com/upcase/videos/git-object-model)
     - Writing a GOOD commit message
+      -  [Conventional Commits pattern from Remote Ruby Podcast](https://remoteruby.transistor.fm/175)
   - Starting a new app
     - ModelRails_app
     - Requesting and deploying to staging and production.
@@ -15,8 +16,11 @@ ___
   - Discuss project ‘rough’ for  SiteGeist 
 
 ### Readings: 
-- Pragmatic Studio Guide [**Chapters 1 - 5**]
-- Apprenticeship Patterns [**Preface**]
+- [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**]
+- [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [design - launch]
+-[Pragmatic Studio Guide](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) [**Chapters 1 - 5**]
+
+
   
   --- 
 

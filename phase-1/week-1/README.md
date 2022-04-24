@@ -26,8 +26,8 @@ ___
   - Make sure accounts are setup for employees (github, slack, zoom, email groups etc…)
 
 #### Readings: 
-  - Start Pragmatic Studio Guide (if not already)
-  - [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition)
+  - [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**]
+  - [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [planning - team]
 
 #### Schedule: 
 - Monday: ITS Orientation (remote)
