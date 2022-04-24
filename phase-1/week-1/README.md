@@ -20,7 +20,7 @@ ___
   - Make sure accounts are setup for employees (github, slack, zoom, email groups etc…)
 
 #### Readings: 
-  - Start Pragmatic Studio Guide (if not already)
+  - Start [Pragmatic Studio Guide](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) 
   - [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition)
 
 #### Schedule: 
