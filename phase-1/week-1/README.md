@@ -37,3 +37,9 @@ ___
   - 2pm - 4pm ITS Professional Development (in person)
 - Thursday: 
 - Friday: ITS Retreat (in person)
+
+# The Playbook Video Edition Notes
+- Building your audience 
+  - doing the articles in the newsletter
+  - getting to production early (Don't go chasing waterfalls)
+
