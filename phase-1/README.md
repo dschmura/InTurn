@@ -21,12 +21,6 @@ This will coincide with learning about Test Driven Development and how to "think
 
 Finally, we will start introducing basic Ruby on Rails concepts and set the team members up to use the ModelRails_app as a foundation for a 'breakable toy'. 
 
-## Post ITS Orientation reflection?
-Teach me what you learned doing the orientation product development?
-
-What are the appropriate uses of the Block M? Have you seen these violated? Tell me what you think about that.
-
-
 ### Weekly Callouts
   - ITS Professional Development: Wednesday, 2pm - 4pm
   - ITS Retreats: Fridays all day
@@ -55,7 +49,7 @@ What are the appropriate uses of the Block M? Have you seen these violated? Tell
 ### Additional Resources
 - [Student Handbook](resources/student-handbook)
 - [How to Submit a Challenge](resources/how-to-submit.md)
-- [Daily Schedules](resources/daily_schedules.md)
+- [Daily Schedules](./daily_schedules.md)
 - [Learning Competencies](resources/competencies.md)
 - [External Resources](resources/resources.md)
 - [Phase Schedule](resources/schedule.md)

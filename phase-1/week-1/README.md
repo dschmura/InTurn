@@ -5,6 +5,12 @@ ___
   ## Week 1 (May 2nd - 7th)
   > #### GOALS: Welcome interns and get set up for success!
   > This should be a checklist
+    ## Post ITS Orientation reflection?
+    Teach me what you learned doing the orientation product development?
+
+    What are the appropriate uses of the Block M? Have you seen these violated? Tell me what you think about that.
+
+
 
   - WA@Ds Orientation
     - Meet the team
