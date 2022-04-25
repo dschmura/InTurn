@@ -37,5 +37,28 @@ ___
   - [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**]
   - [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [**planning - team**]
 
+#### Schedule: 
+- Monday: ITS Orientation (remote)
+- Tuesday: ITS Orientation (in person)
+- Wednesday: 
+  - 9am WA@Ds Standup (remote) Introduction to WA@Ds!
+  - 2pm - 4pm ITS Professional Development (in person)
+- Thursday: 
+- Friday: ITS Retreat (in person)
 
-#### REFLECTIONS
+# The Playbook Video Edition Dave's Notes
+
+> Planning
+>  - sketches
+>  - concensus around the problem?
+> Team 
+>   - breaking down barriors between development and design
+>     - ModelRails live reload
+>     - pairing with designers
+>    - the value of understanding the full stack.
+>   - the role of the visionary
+> 
+- Building your audience 
+  - doing the articles in the newsletter
+  - getting to production early (Don't go chasing waterfalls)
+
