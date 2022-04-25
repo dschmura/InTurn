@@ -17,12 +17,13 @@ ___
 * Designs for SiteGeist
 * [Hotwire for Rails Developers](https://pragmaticstudio.com/hotwire-rails)
 
-**READING**
-* Pragmatic Studio Guide [Chapters 6 -7]
-* Apprentices
+#### READING
+- [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Chapter 1**]
+- [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [design - launch]
+-[Pragmatic Studio Guide](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) [**Chapters 6 - 7**]
 
 
-#### Schedule: 
+#### SCHEDULE: 
 - Monday: ITS Orientation (remote)
 - Tuesday: ITS Orientation (in person)
 - Wednesday: 

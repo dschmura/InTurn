@@ -4,28 +4,26 @@ ___
 
   ## Week 2 (May 9th - May 13th) 
   > #### GOALS: Introduction to Rails and Rails team processes
-  - Git norms: How WA@Ds uses git and our work flows
+  - Git norms: How WA@Ds uses git and our work flows [overview]
   - GitHub: How we utilize GitHub for collaborative development
-    - UPCASE:[Mastering Git](https://thoughtbot.com/upcase/videos/git-object-model)
     - Writing a GOOD commit message
       -  [Conventional Commits pattern from Remote Ruby Podcast](https://remoteruby.transistor.fm/175)
+    - UPCASE:[Mastering Git](https://thoughtbot.com/upcase/videos/git-object-model)
   - Starting a new app
     - ModelRails_app
     - Requesting and deploying to staging and production.
     - Documentation / Testing
   - Discuss project ‘rough’ for  SiteGeist 
 
-### Readings: 
-- [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**]
+### READING: 
+- [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Chapter 1**]
 - [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [design - launch]
 -[Pragmatic Studio Guide](https://pragprog.com/titles/rails7/agile-web-development-with-rails-7/) [**Chapters 1 - 5**]
-
-
   
   --- 
 
 
-  #### Schedule: 
+#### SCHEDULE: 
 - Monday: 
 - Tuesday: 
 - Wednesday: 

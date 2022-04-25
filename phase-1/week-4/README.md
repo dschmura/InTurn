@@ -6,7 +6,7 @@ ___
 > #### GOALS: 
 
 
-  #### Schedule: 
+  #### SCHEDULE: 
 - Monday: 
 - Tuesday: 
 - Wednesday: 
