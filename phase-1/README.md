@@ -24,6 +24,7 @@ Finally, we will start introducing basic Ruby on Rails concepts and set the team
 ### Weekly Callouts
   - ITS Professional Development: Wednesday, 2pm - 4pm
   - ITS Retreats: Fridays all day
+  - Every week we will read a part of Apprenticeship Patterns and right a reflection/summary in the form of a tweet-sized piece of advice. (* 280 character limit). 
 
 ### Daily Cadence
 
