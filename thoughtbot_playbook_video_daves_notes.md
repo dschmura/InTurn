@@ -19,7 +19,7 @@
 >   - Functionality over style. 
 >   - Simplicity is hard (especially here)
 >     - say no (good ideas, like good dogs, come back)
->     - repeat
+>     - focus on the problem, not the solution
 >   
 >   
 > DEVELOPMENT (35 min)
