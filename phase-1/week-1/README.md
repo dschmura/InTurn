@@ -57,7 +57,14 @@ ___
 >     - pairing with designers
 >    - the value of understanding the full stack.
 >   - the role of the visionary
-> 
+> Design
+>   - functionality trumps style
+>   - simplicity is hard
+>   - Say NO!
+>   - know your audience
+>   - avoid design by committee
+>   - and by personal preference
+>   - talk in problems, not solutions
 - Building your audience 
   - doing the articles in the newsletter
   - getting to production early (Don't go chasing waterfalls)
