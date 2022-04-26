@@ -51,5 +51,8 @@ ___
   - 9am WA@Ds Standup (remote) Introduction to WA@Ds!
   - 2pm - 4pm ITS Professional Development (in person)
 - Thursday: 
+  - Watch [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [**planning - team**]
+  - Write a short (1 - 5 paragraphs) reflecting on each section.
+  - 
 - Friday: ITS Retreat (in person)
 
