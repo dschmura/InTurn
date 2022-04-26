@@ -8,9 +8,12 @@ ___
 >  - Monday: ITS Orientation (remote)
 >  - Tuesday: ITS Orientation (in person)
 >  - Wednesday: 
->    - 9am WA@Ds Standup (remote) Introduction to WA@Ds!
->    - 2pm - 4pm ITS Professional Development (in person)
+>   - 9am WA@Ds Standup (remote) Introduction to WA@Ds!
+>   - Introduce Meet The Team exercise
+>   - 2pm - 4pm ITS Professional Development (in person)
 >  - Thursday: 
+      - Laptop Setup for development
+      - Start scheduling staff interviews.
 >  - Friday: ITS Retreat (in person)
 
 #### GOALS: Welcome interns and get set up for success!
@@ -32,6 +35,10 @@ ___
 
 - Make sure computers are set up and ready to go
 - Make sure accounts are setup for employees (github, slack, zoom, email groups etc…)
+
+## Design Project from ITS Orientation
+  - Debbie: Intern Weekly Reflections
+  - Henry: Yearly Performance Reviews
 
 #### READING 
   - [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**]

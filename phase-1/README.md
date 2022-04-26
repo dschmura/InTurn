@@ -47,7 +47,7 @@ Finally, we will start introducing basic Ruby on Rails concepts and set the team
 
 
 ### Additional Resources
-- [Student Handbook](resources/student-handbook)
+- [Student Handbook](../resources/student-handbook.md)
 - [How to Submit a Challenge](resources/how-to-submit.md)
 - [Daily Schedules](./daily_schedules.md)
 - [Learning Competencies](resources/competencies.md)
