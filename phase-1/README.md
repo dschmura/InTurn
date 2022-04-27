@@ -8,7 +8,7 @@ ___
 Phase-1 is when we start to meet and orient our new team members. The overall goal is to lay the foundation for building a successful project in Phase-2. The focus is on the underlying communication approaches. We want to introduce our new team members to how we talk about our work. This phase is about building rapport and trust. It is about helping the new team members feel confident asking for help. 
 
 During this phase the team members will: 
-  - meet the WA@Ds team
+  - [meet the WA@Ds team](../resources/meet_the_team_exercise.md)
   - learn about our mission and values
   - get development environments set up
   - learn how the WA@Ds team communicates
