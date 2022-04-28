@@ -1,6 +1,6 @@
-## Message to staff
+<!-- ## Message to staff
 Send a [Message to staff](../resources/meet_the_team_introduction_email.md) a week before interns start.
-
+ -->
 # Meet the Team Exercise: 
 
  Our new team members will conduct brief interviews of the staff (10 - 15 minutes). The idea is to give our new team members an opportunity to meet everyone on the team. The interviews will be very short (3 - 5 questions).
