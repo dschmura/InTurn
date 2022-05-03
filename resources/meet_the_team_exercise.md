@@ -28,10 +28,14 @@ Quirks are a nice way to share something personal (not too personal) about yours
 
 Quirks generally fall into a couple of categories
   
-  - Hobbies and interests that might be unexpected
+  - Hobbies and interests
   - Famous people you may have met 
-  - Superstitions (ie: "I always hold my breath when I pass a cemetary.")
-  - I used to be a concert pianist
+  - Food 
+    - Can your food touch on your plate?  
+    - Do you have a consistent way to approach the options on your plate?  Like veggies first.  Or must you take one bite from each food type on your plate in a clockwise pattern around your plate?  
+- Past histories
+  - Did you have a previous career(s)? 
+  - 
 
 In our WA@Ds standup on Wednesday, May 18th, we will have the interns introduce each team member based on the information gathered in the interview. They will also read the three 'quirks'. At this point the interns will pole the rest of the team to see if we can guess which 'quirk' was a lie.
 
