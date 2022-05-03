@@ -37,7 +37,7 @@ Quirks generally fall into a couple of categories
   - Did you have a previous career(s)? 
   - 
 
-In our WA@Ds standup on Wednesday, May 18th, we will have the interns introduce each team member based on the information gathered in the interview. They will also read the three 'quirks'. At this point the interns will pole the rest of the team to see if we can guess which 'quirk' was a lie.
+In our WA@Ds standup on Wednesday, May 18th, we will have the interns introduce each team member based on the information gathered in the interview. They will also read the three 'quirks'. At this point the interns will poll the rest of the team to see if we can guess which 'quirk' was a lie.
 
 ___
 # Screenshot Selfie 
