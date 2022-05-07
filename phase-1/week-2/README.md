@@ -6,6 +6,7 @@ ___
   ## Week 2 (May 9th - May 13th) 
   > #### GOALS: Introduction to Rails and Rails team processes
   - Git norms: How WA@Ds uses git and our work flows [overview]
+  - Git Functional: The moswt common scenarios and how we approach them.
   - GitHub: How we utilize GitHub for collaborative development
     - Writing a GOOD commit message
       -  [Conventional Commits pattern from Remote Ruby Podcast](https://remoteruby.transistor.fm/175)
