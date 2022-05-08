@@ -12,6 +12,7 @@
   - Semver...
   - Writing a GOOD commit message
     - [Conventional Commits Pattern](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+    - [The Zen of Creating Effective Jira Tickets](https://github.com/lsa-mis/modelrails_playbook/wiki/1.0-The-Zen-of-creating-Jira-tickets)
 * Discuss project ‘rough’ for  SiteGeist 
 
 **READING**
