@@ -5,6 +5,7 @@ ___
 ## Week 3 (May 16th - May 20th) => **RailsConf**
 
 > #### GOALS: Introduction to working with the Rails other members of the team
+* Ruby exercises
 * Pairing with Rick & Rita
 * Design / Planning with Jessica and Maria
 * How to write user stories
@@ -25,8 +26,8 @@ ___
 
 
 #### SCHEDULE: 
-- Monday: ITS Orientation (remote)
-- Tuesday: ITS Orientation (in person)
+- Monday: 
+- Tuesday: 
 - Wednesday: 
   - 9am WA@Ds Standup (remote) Introduction to WA@Ds!
   - 2pm - 4pm ITS Professional Development (in person)
