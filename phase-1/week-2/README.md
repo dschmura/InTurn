@@ -25,9 +25,9 @@ ___
   - Tour of 301 E. Liberty
   - Check-in on Agile Guide progress
   - Check-in on Meet the Interns project
-  - Introduce [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**] (*Read the preface)
+  - Introduce [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Preface**] 
 - Tuesday: 
-  - Introduce [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition)[**planning - team**] (Planning -> team)
+  - Introduce [The Playbook: Video Edition](https://thoughtbot.com/upcase/the-playbook-video-edition) [**planning => team**] 
 - Wednesday: 
   - 2pm - 4pm ITS Professional Development (in person)
 - Thursday: Discuss next week’s staff meeting
