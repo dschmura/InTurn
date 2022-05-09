@@ -8,8 +8,11 @@ ___
 
   - Git norms: How WA@Ds uses git and our work flows [overview]
   - Git Functional: The most common scenarios and how we approach them.
+  - GitHub: How we utilize GitHub for collaborative development
+    - Writing a GOOD commit message
+      -  [Conventional Commits pattern from Remote Ruby Podcast](https://remoteruby.transistor.fm/175)
+    - UPCASE: [Mastering Git](https://thoughtbot.com/upcase/videos/git-object-model)
 
-* Ruby exercises
 * Pairing with Rick & Rita
 * Design / Planning with Jessica and Maria
 * How to write user stories
@@ -22,6 +25,10 @@ ___
     * UPCASE:[ Rails Testing Exercises](https://thoughtbot.com/upcase/rails-testing-exercises)
 * Designs for SiteGeist
 * [Hotwire for Rails Developers](https://pragmaticstudio.com/hotwire-rails)
+
+### LESSONS:
+- Ruby Basics
+___
 
 #### READING
 - [Apprenticeship Patterns](https://www.oreilly.com/library/view/apprenticeship-patterns/9780596806842/ch01.html) [**Chapter 1**]

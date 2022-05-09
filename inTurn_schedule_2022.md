@@ -9,7 +9,7 @@
 * Introduction of ModelRails_app 
 * How we will be working with git and GitHub
   - UPCASE:[Mastering Git](https://thoughtbot.com/upcase/videos/git-object-model)
-  - Semver...
+  - [Semver!](https://semver.org)
   - Writing a GOOD commit message
     - [Conventional Commits Pattern](https://www.conventionalcommits.org/en/v1.0.0/#summary)
     - [The Zen of Creating Effective Jira Tickets](https://github.com/lsa-mis/modelrails_playbook/wiki/1.0-The-Zen-of-creating-Jira-tickets)
