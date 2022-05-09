@@ -4,7 +4,11 @@ ___
 # Phase-1 Week-3 Guide
 ## Week 3 (May 16th - May 20th) => **RailsConf**
 
-> #### GOALS: Introduction to working with the Rails other members of the team
+> #### GOALS: Reinforce learning re: git, ruby and rails
+
+  - Git norms: How WA@Ds uses git and our work flows [overview]
+  - Git Functional: The most common scenarios and how we approach them.
+
 * Ruby exercises
 * Pairing with Rick & Rita
 * Design / Planning with Jessica and Maria
