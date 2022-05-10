@@ -8,9 +8,9 @@ ___
   - Discuss project ‘rough’ for  Meet the staff breakable toy 
 
 ### LESSONS:
-- Bundler, Yarn, Gems, & Packages. Where is this code coming from?
-- Scope of web application development. 
-- [Semver!](https://semver.org)
+- Bundler, Yarn, Gems, & Packages. Where is this code coming from? (TBW)
+- Scope of web application development. [Ruby on Rails Competencies Diagram](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png?1386276348)
+- [Semver ](https://semver.org) is a set of agreed upon set of rules and requirements that dictate how version numbers are assigned and incremented.
   - [Rails Maintainence Policy](https://guides.rubyonrails.org/maintenance_policy.html)
   - [Ruby Gems Guide on Semantic Versioning](https://guides.rubygems.org/patterns/#semantic-versioning)
 ### READING: 
