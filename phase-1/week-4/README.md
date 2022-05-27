@@ -5,6 +5,8 @@ ___
 ## Week 3 (May 23rd - May 27th) 
 
 > #### GOALS: 
+  - Starting a new app
+    - ModelRails_app
 
 
   #### SCHEDULE: 
